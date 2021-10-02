@@ -1,12 +1,11 @@
 # Philips Hue Spotify integration
 
+
 ## Setting it up
 Install the dependencies
 ```javascript
 npm i
 ```
-
-<br>
 
 Create a file named .env and paste this
 ```javascript
