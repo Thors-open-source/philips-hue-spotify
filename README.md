@@ -21,5 +21,5 @@ The import is all ready in the script, and ofcourse keep your .env a secret, don
 ## How to use
 
 Enter your philips hue information on login, and authorize to spotify. Your lamp should now turn on and pulse to your spotify account, wherever you're playing from.
-
+ 
 
